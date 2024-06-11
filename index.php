@@ -23,7 +23,7 @@ curl_close($ch);
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css" />
 </head>
 <main>
-    <pre>
+    <pre style="display: none;">
         <? var_dump($data) ?>
     </pre>
     <section>
