@@ -7,13 +7,13 @@
   </section>
   <hgroup>
     <h3>
-      <?= $title ?> - <?= $untilMessage ?>
+      <?= $title ?> - <?= $until_message ?>
     </h3>
     <p>
       Release Date <?= $release_date ?>
     </p>
     <p>
-      The next movie of the Marvel Cinematic Universe is <?= $following_production['title'] ?>
+      The next movie of the Marvel Cinematic Universe is <?= $following_production ?>
     </p>
   </hgroup>
 </main>
